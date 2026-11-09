@@ -1,0 +1,42 @@
+{
+  "source": "games.csv",
+  "totalGames": 6,
+  "games": [
+    {
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "platform": "Switch",
+      "year": 2017,
+      "genre": "Adventure"
+    },
+    {
+      "title": "Minecraft",
+      "platform": "PC",
+      "year": 2011,
+      "genre": "Sandbox"
+    },
+    {
+      "title": "Super Mario Odyssey",
+      "platform": "Switch",
+      "year": 2017,
+      "genre": "Platform"
+    },
+    {
+      "title": "The Witcher 3",
+      "platform": "PC",
+      "year": 2015,
+      "genre": "RPG"
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "platform": "PS4",
+      "year": 2018,
+      "genre": "Action"
+    },
+    {
+      "title": "Hollow Knight",
+      "platform": "PC",
+      "year": 2017,
+      "genre": "Metroidvania"
+    }
+  ]
+}
